@@ -1,0 +1,178 @@
+---
+csl: ieee.csl
+references:
+- id: ogrady
+  title: Accessibility compliance rates of consumer-oriented Canadian health care Web sites
+  author:
+  - family: O'Grady
+    given: [Laura]
+  container-title: Medical Informatics & The Internet In Medicine
+  volume: 30
+  issue: 4
+  page: 287-295
+  type: article-journal
+  url: 'http://ehis.ebscohost.com/ehost/detail?sid=9181dd17-97db-4eb5-8e86-7cd441f06329%40sessionmgr114&vid=1&hid=115&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#db=a9h&AN=20063424'
+  issued:
+    year: 2005
+    month: 9
+  accessed:
+    year: 2013
+    month: 9
+    day: 24
+- id: w3ctech
+  title: Techniques and Failures for Web Content Accessibility Guidelines 2.0
+  author: 
+  - literal: W3C
+  container-title: Worldwide Web Consortium
+  type: webpage
+  ref-type: webpage
+  issued:
+    year: 2013
+    month: 9
+    day: 5
+  url: 'http://www.w3.org/TR/WCAG20-HTML-TECHS/'
+  accessed:
+    year: 2013
+    month: 9
+    day: 24
+- id: w3cguide
+  title: Web Content Accessibility Guidelines 2.0
+  author:
+  - literal: W3C
+  container-title: Worldwide Web Consortium
+  type: webpage
+  issued:
+    year: 2008
+    month: 12
+    day: 11
+  url: 'http://www.w3.org/TR/WCAG20/'
+  accessed:
+    year: 2013
+    month: 9
+    day: 24
+- id: w3caria
+  title: Accessible Rich Internet Applications (WAI_ARIA) 1.0
+  author:
+  - literal: W3C
+  container-title: Worldwide Web Consortium
+  type: webpage
+  issued:
+    year: 2011
+  url: 'http://www.w3.org/TR/wai-aria/'
+  accessed:
+    year: 2013
+    month: 9
+    day: 24
+- id: canstd
+  title: Standard on Web Accessibility
+  author:
+  - literal: Treasury Board of Canada Secretariat
+  container-title: Canada
+  type: webpage
+  issued:
+    year: 2011
+  url: 'http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601'
+  accessed:
+    year: 2013
+    month: 9
+    day: 24
+- id: oldinfo
+  title: Building Accessible Websites
+  author:
+  - family: Clark
+    given: [J]
+  publisher: New Riders Publishing
+  issued:
+    year: 2002
+  type: book
+- id: interview
+  title: 'Léonie Watson: accessibility is not the enemy of design'
+  author:
+  - literal: Creative Blog
+  issued:
+    year: 2013
+  publisher: Creative Blog
+  type: webpage
+  url: 'http://www.creativebloq.com/web-design/why-accessibility-not-enemy-beauty-8134056'
+  accessed:
+    year: 2013
+    month: 9
+    day: 24
+- id: usstd
+  title: Section 508
+  author:
+  - literal: General Services Administration’s Office of Governmentwide Policy
+  container-title: United States of America
+  type: webpage
+  url: 'http://www.section508.gov/index.cfm?fuseAction=stdsdoc'
+  accessed:
+    year: 2013
+    month: 9
+    day: 24
+- id: algsamenu
+  title: Menu
+  author:
+  - literal: Algonquin Student Association
+  container-title: The Observatory
+  type: webpage
+  url: 'http://www.algonquinsa.com/ob/menu.aspx'
+  accessed:
+    year: 2013
+    month: 9
+    day: 24
+- id: algsagal
+  title: Photo Gallery
+  author:
+  - literal: Algonquin Student Association
+  container-title: Thunder Athletics "Let's Get Thunderstruck"
+  type: webpage
+  url: 'http://www.algonquinsa.com/athletics/photo-gallery.aspx'
+  accessed:
+    year: 2013
+    month: 10
+    day: 22
+- id: winplayer
+  title: "Step 1: Run Windows Media Player"
+  author:
+  - literal: Knowzy
+  type: webpage
+  url: ‘http://www.knowzy.com/Computers/Audio/How_To_Rip_A_CD_To_MP3_Files/Windows_Media_Player_CD_Ripping-01.htm'
+  accessed:
+    year: 2013
+    month: 11
+    day: 15
+  issued:
+    year: 2005
+    month: 09
+    day: 14
+  updated:
+    year: 2011
+    month: 06
+    day: 27
+- id: aoda
+  title: "Accessibility for Ontarians with Disabilities Act, 2005"
+  author:
+  - literal: Ontario Government
+  type: webpage
+  url: 'http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_05a11_e.htm'
+  issued:
+    year: 2005
+  accessed:
+    year: 2013
+    month: 12
+    day: 5
+- id: aodacust
+  title: 'Accessibility Standards for Customer Service'
+  author:
+  - literal: Ontario Government
+  type: webpage
+  url: 'http://www.e-laws.gov.on.ca/html/source/regs/english/2007/elaws_src_regs_r07429_e.htm'
+  issued:
+    year: 2007
+    month: 7
+    day: 27
+  accessed:
+    year: 2013
+    month: 12
+    day: 5
+...

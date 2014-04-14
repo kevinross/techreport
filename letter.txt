@@ -1,0 +1,28 @@
+Fall 2013  
+  
+Professor C. Côté, Room B325a  
+
+Algonquin College  
+1385 Woodroffe Ave.  
+Ottawa, ON  
+K2G 1V8  
+
+Attached is my proposal for an upgrade in accessibility for the Algonquin Student Association (SA) website.
+
+The purpose of this proposal is to provide a detailed explanation of the techniques used in website accessibility along with a breakdown of several deficiencies in the SA website.  Included are descriptions of actual technologies along with specific examples of deficiencies.  Also included is a breakdown of costs and time requirements.
+
+Throughout this proposal, a familiarity with basic concepts of accessibility and usability will be essential.  Given the importance of this familiarity, some technologies are explained in detail.
+
+Currently, I have almost a decade of software development experience.  For the past 3 years, I have been donating my time and skill to a club at the University of Ottawa so that they will have a best-in-class web application to manage their club's activities and members.  Given the inclusive nature of clubs at the University of Ottawa, I'm required to ensure the website is accessible.  Based on this history, I'm confident that the solutions presented in this report are viable and beneficial to the SA.
+
+I'd like to thank John MacFarlane for providing an excellent tool used to produce this document and Caroline Côté for her invaluable feedback.
+
+Overall, I have enjoyed writing this report as it has given me the skills I need to produce further reports in my career along with the requisite elements of such a report.  I especially enjoyed the challenge I found while deciding on a production method; using MacFarlane's tools along with other tools geared towards finishing the output from his tools has given me invaluable insight into document creation.
+
+I'm happy to answer any questions that may not be answered in this proposal as well as provide any background information desired; I can be reached at [r0ssar00@gmail.com](mailto:r0ssar00@gmail.com) or [ross0262@algonquinlive.com](mailto:ross0262@algonquinlive.com).
+
+Sincerely,  
+      
+      
+\\underline{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}  
+Kevin Ross

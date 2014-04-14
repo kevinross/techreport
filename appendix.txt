@@ -1,0 +1,8 @@
+\\clearpage
+
+## Appendix A
+### Transcript of an inaccessible page with an image
+<#include "menu.txt">
+
+### Transcript of an accessible page with an image
+<#include "media.txt">

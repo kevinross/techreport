@@ -1,0 +1,41 @@
+
+\clearpage
+
+# Glossary
+
+Source code
+:	Text that is translated into instructions by a computer.
+
+Compiled code (binary code)
+:	Data that only a machine can read.  It is the list of instructions to be executed.
+
+Rich Internet Applications (RIA)
+:	A RIA is a collection of javascript, html, and css that when combined by a browser, produce an interactive website that behaves much like a desktop application.
+
+HTML
+:	The markup language used to create the structure of web pages.
+
+Javascript
+:	The scripting language used to control web pages.
+
+CSS
+:	The language used to designate the style of web pages.
+
+Stylesheet
+:	A file containing CSS code
+
+Flash
+:	Browser plugin that allows for more complex applications than HTML+Javascript+CSS typically allow.
+
+Flash applet
+:	A binary object that the browser downloads and executes in the flash plugin.
+
+Depth-first traversal
+:	A method of performing an operation each element of a tree such that each element is visited precisely once, the parent node is visited before it's children, and the left side is visited before the right side.  For example:  
+
+~~~
+    traverse GIVEN parent node:
+        perform_operation ON parent node
+        for every child of the parent node, from left to right:
+            traverse SELECTED child node
+~~~

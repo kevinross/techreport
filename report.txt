@@ -1,0 +1,38 @@
+<#include "head.txt">
+\\clearpage
+
+# Declaration of Sole Authorship
+I, Kevin Ross, confirm that this work submitted for assessment is my own and is expressed in my own words. Any uses made within it of the works of any other author, in any form (ideas, equations, figures, texts, tables, programs), are properly acknowledged at the point of use. A list of the references used is included.
+
+\\clearpage
+
+# Summary
+<#include "exec_summary.txt">
+\\clearpage
+\\renewcommand{\\contentsname}{Table of Contents}
+\\addcontentsline{toc}{section}{Table of Contents}
+\\tableofcontents
+\\clearpage
+\\addcontentsline{toc}{section}{\\listfigurename}
+\\listoffigures
+\\clearpage
+\\pagenumbering{arabic}
+
+# Introduction
+<#include "intro.txt">
+
+\\clearpage
+
+# Discussion
+<#include "discussion.txt">
+
+\\clearpage
+
+# Conclusion
+<#include "conclusion.txt">
+
+\\clearpage
+
+# References
+
+<#include "refs.txt">

@@ -1,0 +1,22 @@
+% Accessibility of Student Association Websites
+% Kevin Ross
+% December 6, 2013
+---
+title: 'Accessibility of Student Association Websites'
+author: 'Kevin Ross'
+tags: [html, accessibility, section508, w3c]
+abstract: |
+    Discusses the use, and lack of use, of HTML accessibility features 
+    on the Algonquin College Student Association website.
+...
+
+\\pagenumbering{gobble}
+<#include "letter.txt">
+\\clearpage
+\\def\\pschool{Algonquin College}
+\\def\\pdepartment{School of Advanced Technology}
+\\include{./title}
+\\def\\ppreppedfor{Carolyn Côté}
+\\def\\pcoursecode{ENL1819}
+\\include{./title}
+\\pagenumbering{roman}

@@ -1,0 +1,8 @@
+The standards dictate a lot of requirements for pages to be accessible, however as they are standards, they need to account for every possible situation.  Based on the content currently on the Algonquin Student Association website, the applicable changes are not onerous and won't take a great deal of time to implement.
+
+It's common belief that making a website accessible will impact usability and design.  Based on an interview with Léonie Watson[[@interview]], this is not the case.  There is absolutely no reason to not make websites accessible.  The SA website is fairly usable and has a pleasing design and is still reasonably accessible in most cases so it is a case that can be used to prove this point.
+
+Based on an article[[@ogrady]] published by Laura O'Grady, more needs to be done to make sites accessible.  While the article was focussed on health care sites, the fact is that the content is not specific to health care.  By making the SA website more accessible, we can help make the internet more accessible for everyone.
+
+For any questions, I can be contacted at [r0ssar00@gmail.com](mailto:r0ssar00@gmail.com) or  
+[ross0262@algonquinlive.com](mailto:r0ssar00@gmail.com).

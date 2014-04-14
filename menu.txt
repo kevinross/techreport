@@ -1,0 +1,54 @@
+    list 2 items
+    link home
+    link quick contact
+    link image algonquin student association home
+    list 3 items
+    link ottawa campus
+    link perth campus
+    link pembroke campus
+    list 7 items
+    link about
+    link services
+    link sa events
+    link theatre
+    link athletics
+    link fitness
+    link food and drink
+    link the observatory menu
+    heading level 1 menu
+    site search edit text
+    search button
+    heading level 2 quick links
+    link photo gallery
+    link interactive map
+    link used books
+    link housing search
+    heading level 2 social networking
+    link algonquin student association
+    link thunder athletics
+    link algonquin fitness zone slash impact zone
+    link algonquin commons theatre
+    link algonquin students association
+    link thunder athletics
+    link the observatory
+    list 5 items
+    visited link menu
+    link house policies
+    link events
+    link event rules
+    link private rentals
+    list 8 items
+    visited link home
+    link about
+    link services
+    link events
+    link thunder athletics
+    link fitness
+    link food and drink
+    link quick contacts
+    copyright sign copyright 2010 algonquin students association corporation all rights reserved
+    list 2 items
+    link privacy policy
+    link site map
+    link design plus development by atomic motion
+    

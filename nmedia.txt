@@ -1,0 +1,88 @@
+internal link skip to main content
+mobile view button button
+smart view button button
+
+desktop item image
+link home
+link topics browns topics at knowzy
+link about us learn about knowzy
+link contact us get in touch with knowzys
+yahoo icon image
+search k n o w z y
+search k n o w z y search text field
+
+find it button
+link image knowzy know you know
+frame 0
+text size 095x
+larger version
+smaller version
+justify paragraphs check checkbox
+topics
+list 3 items
+link computers
+list 1 item level 2
+link computer audio
+list 1 item level 3
+link audio cd ripping
+list 1 item level 4
+link ripping cds to mp3s using windows media player
+link entertainment
+link personal finance
+see also link software library
+frame 3
+link computers
+link computer audio
+link audio cd ripping
+link ripping cds to mp 3 s using windows media player
+step by step
+heading level 1
+step 1 running media player clickable
+navigation
+link image
+step by step home icon
+how to rip cds using windows media player overview
+link image next page icon
+step 2 configure ripping preferences
+link home
+how to rip cds using windows media player overview
+link next step 2 configure ripping prefs
+heading level 2 ripping cds using windows media player clickable
+link overview slash what you need
+list 4 items
+1 run windows media player viewing group
+1 run windows media player viewing
+2 link configure ripping prefs
+3 link insert an audio cd and rip
+4 link enjoy your music
+
+the windows media player shortcut is on your start menu under accessories and entertainment
+follow these steps to run windows media player
+
+list 5 items
+bullet click the start menu
+group
+bullet click the start menu
+bullet select all programs
+group
+bullet select all program
+bullet select the accessories folder
+group
+bullet select the accessories folder
+bullet select the entertainment folder
+group
+bullet select the entertainment folder
+bullet click the windows media player icon
+group
+bullet click the windows media player icon
+windows media player shouold appear shortly
+row 1 of 2 column 1 of 1
+link image screenshot of the start menu open with windows media player selected
+click here to zoom if you are having trouble reading the text
+row 2 of 2 column 1 of 1
+the windows media player icon is found here
+run windows media player by opening the start menu all programs accessories
+entertainment and clicking the windows media player icon
+note if you see an advertisement when the program starts
+you probably need to upgrade to the link latest version of windows media player
+microsoft's windows media player page
